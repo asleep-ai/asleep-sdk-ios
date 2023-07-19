@@ -1,2 +1,8 @@
 *.xcframework
 *.zip
+
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+.swiftpm/xcode/package.xcworkspace/xcuserdata/chul_asleep.xcuserdatad/UserInterfaceState.xcuserstate
+
+.swiftpm/xcode/xcuserdata/chul_asleep.xcuserdatad/xcschemes/xcschememanagement.plist
