@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AsleepSDK",
-            url: "https://github.com/asleep-ai/asleep-sdk-ios/releases/download/1.0.1/AsleepSDK.xcframework.zip",
-            checksum: "9ba0c0279a7aa157dd0c63a2d4c72efbcab176c1ebfd8d1fa8cd40af68b580a1"
+            url: "https://github.com/asleep-ai/asleep-sdk-ios/releases/download/1.0.2/AsleepSDK.xcframework.zip",
+            checksum: "ca959b123860dd9b333ac69d50b1b889e0468b0f8907e14a5869fcb75fc70bdf"
         )
     ]
 )
