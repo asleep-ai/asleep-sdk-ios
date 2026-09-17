@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AsleepSDK' # 파일 이름과 일치하도록 변경
-  s.version          = '3.2.0'
+  s.version          = '3.3.0'
   s.summary          = 'Asleep AI SDK for iOS'
 
 # This description is used to generate tags and improve search results.
